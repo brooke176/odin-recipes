@@ -1,0 +1,23 @@
+
+p {
+    color: black;
+    background-color: rgb(170, 118, 118);
+    font-size: 32px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+  }
+
+.subsection.header {
+  font-size: 24px;
+}
+
+#title {
+  background-color: rgb(83, 129, 83);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#two {
+  color:blue;
+  font-size: 36px;
+}
+
